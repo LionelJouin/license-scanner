@@ -1,0 +1,5 @@
+https://github.com/cilium/ebpf MIT v0.7.0 ebpf
+https://github.com/hashicorp/consul Mozilla sdk/v0.1.1 consul-0.1.1
+https://github.com/hashicorp/consul Mozilla v1.1.0 consul-1.1.0
+https://github.com/kubernetes/apiserver Apache v0.24.2 apiserver
+https://github.com/open-policy-agent/opa Apache v0.44.0 opa
